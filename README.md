@@ -1,2 +1,3 @@
 # LEARNING-GIT-DEMO
-This is my first Fit Repository
+This is my first Git Repository
+Author - Maithili Makkar
